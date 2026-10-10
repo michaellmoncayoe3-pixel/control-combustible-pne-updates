@@ -1,5 +1,6 @@
+
 {
-  "version": "1.4.2",
-  "url": "https://github.com/michaellmoncayoe3-pixel/control-combustible-pne-updates/releases/download/v1.4.2/control-combustible-pne-1.4.2.apk",
-  "notas": "Actualización oficial 1.4.2 de Control Combustible PNE. Mejoras en el sistema de actualizaciones automáticas."
+  "version": "1.4.3",
+  "url": "https://github.com/michaellmoncayoe3-pixel/control-combustible-pne-updates/releases/download/v1.4.3/control-combustible-pne-1.4.3.apk",
+  "notas": "Actualización oficial 1.4.3 de Control Combustible PNE. Nuevos horarios de acceso generales e individuales, múltiples franjas horarias, bloqueo visual fuera del horario autorizado, límite de un registro diario por vehículo y mejoras de rendimiento."
 }
